@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="T=oFx.np:aIF[oRbp}6~" x="0" y="0"><statement name="HANDLER"><block type="device_pause" id="*8@V)c:%/{`Yp-p2gi/I"><value name="pause"><shadow type="timePicker" id="H4Kn[*yfxy2$CyUw5xLI"><field name="ms">1000</field></shadow></value></block></statement></block></xml>
